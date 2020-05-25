@@ -1,0 +1,13 @@
+c:\users\user\documents\visual studio 2010\Projects\Example_5_MediaPlayerDemo\Example_5_MediaPlayerDemo\Bin\Debug\ApplicationIcon.png
+c:\users\user\documents\visual studio 2010\Projects\Example_5_MediaPlayerDemo\Example_5_MediaPlayerDemo\Bin\Debug\Background.png
+c:\users\user\documents\visual studio 2010\Projects\Example_5_MediaPlayerDemo\Example_5_MediaPlayerDemo\Bin\Debug\Example_5_MediaPlayerDemo.dll
+c:\users\user\documents\visual studio 2010\Projects\Example_5_MediaPlayerDemo\Example_5_MediaPlayerDemo\Bin\Debug\Example_5_MediaPlayerDemo.pdb
+c:\users\user\documents\visual studio 2010\Projects\Example_5_MediaPlayerDemo\Example_5_MediaPlayerDemo\Bin\Debug\AppManifest.xaml
+c:\users\user\documents\visual studio 2010\Projects\Example_5_MediaPlayerDemo\Example_5_MediaPlayerDemo\Bin\Debug\Example_5_MediaPlayerDemo.xap
+c:\users\user\documents\visual studio 2010\Projects\Example_5_MediaPlayerDemo\Example_5_MediaPlayerDemo\obj\Debug\ResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2010\Projects\Example_5_MediaPlayerDemo\Example_5_MediaPlayerDemo\obj\Debug\App.g.i.cs
+c:\users\user\documents\visual studio 2010\Projects\Example_5_MediaPlayerDemo\Example_5_MediaPlayerDemo\obj\Debug\MainPage.g.i.cs
+c:\users\user\documents\visual studio 2010\Projects\Example_5_MediaPlayerDemo\Example_5_MediaPlayerDemo\obj\Debug\Example_5_MediaPlayerDemo.g.resources
+c:\users\user\documents\visual studio 2010\Projects\Example_5_MediaPlayerDemo\Example_5_MediaPlayerDemo\obj\Debug\Example_5_MediaPlayerDemo.dll
+c:\users\user\documents\visual studio 2010\Projects\Example_5_MediaPlayerDemo\Example_5_MediaPlayerDemo\obj\Debug\Example_5_MediaPlayerDemo.pdb
+c:\users\user\documents\visual studio 2010\Projects\Example_5_MediaPlayerDemo\Example_5_MediaPlayerDemo\obj\Debug\XapCacheFile.xml

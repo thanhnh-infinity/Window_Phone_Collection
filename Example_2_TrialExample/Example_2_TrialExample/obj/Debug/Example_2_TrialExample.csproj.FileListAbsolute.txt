@@ -1,0 +1,13 @@
+c:\users\user\documents\visual studio 2010\Projects\Example_2_TrialExample\Example_2_TrialExample\Bin\Debug\ApplicationIcon.png
+c:\users\user\documents\visual studio 2010\Projects\Example_2_TrialExample\Example_2_TrialExample\Bin\Debug\Background.png
+c:\users\user\documents\visual studio 2010\Projects\Example_2_TrialExample\Example_2_TrialExample\Bin\Debug\Example_2_TrialExample.dll
+c:\users\user\documents\visual studio 2010\Projects\Example_2_TrialExample\Example_2_TrialExample\Bin\Debug\Example_2_TrialExample.pdb
+c:\users\user\documents\visual studio 2010\Projects\Example_2_TrialExample\Example_2_TrialExample\Bin\Debug\AppManifest.xaml
+c:\users\user\documents\visual studio 2010\Projects\Example_2_TrialExample\Example_2_TrialExample\Bin\Debug\Example_2_TrialExample.xap
+c:\users\user\documents\visual studio 2010\Projects\Example_2_TrialExample\Example_2_TrialExample\obj\Debug\ResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2010\Projects\Example_2_TrialExample\Example_2_TrialExample\obj\Debug\App.g.i.cs
+c:\users\user\documents\visual studio 2010\Projects\Example_2_TrialExample\Example_2_TrialExample\obj\Debug\MainPage.g.i.cs
+c:\users\user\documents\visual studio 2010\Projects\Example_2_TrialExample\Example_2_TrialExample\obj\Debug\Example_2_TrialExample.g.resources
+c:\users\user\documents\visual studio 2010\Projects\Example_2_TrialExample\Example_2_TrialExample\obj\Debug\Example_2_TrialExample.dll
+c:\users\user\documents\visual studio 2010\Projects\Example_2_TrialExample\Example_2_TrialExample\obj\Debug\Example_2_TrialExample.pdb
+c:\users\user\documents\visual studio 2010\Projects\Example_2_TrialExample\Example_2_TrialExample\obj\Debug\XapCacheFile.xml

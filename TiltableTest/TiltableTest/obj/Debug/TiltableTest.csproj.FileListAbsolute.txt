@@ -1,0 +1,13 @@
+c:\users\user\documents\visual studio 2010\Projects\TiltableTest\TiltableTest\Bin\Debug\ApplicationIcon.png
+c:\users\user\documents\visual studio 2010\Projects\TiltableTest\TiltableTest\Bin\Debug\Background.png
+c:\users\user\documents\visual studio 2010\Projects\TiltableTest\TiltableTest\Bin\Debug\TiltableTest.dll
+c:\users\user\documents\visual studio 2010\Projects\TiltableTest\TiltableTest\Bin\Debug\TiltableTest.pdb
+c:\users\user\documents\visual studio 2010\Projects\TiltableTest\TiltableTest\Bin\Debug\AppManifest.xaml
+c:\users\user\documents\visual studio 2010\Projects\TiltableTest\TiltableTest\Bin\Debug\TiltableTest.xap
+c:\users\user\documents\visual studio 2010\Projects\TiltableTest\TiltableTest\obj\Debug\ResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2010\Projects\TiltableTest\TiltableTest\obj\Debug\App.g.i.cs
+c:\users\user\documents\visual studio 2010\Projects\TiltableTest\TiltableTest\obj\Debug\MainPage.g.i.cs
+c:\users\user\documents\visual studio 2010\Projects\TiltableTest\TiltableTest\obj\Debug\TiltableTest.g.resources
+c:\users\user\documents\visual studio 2010\Projects\TiltableTest\TiltableTest\obj\Debug\TiltableTest.dll
+c:\users\user\documents\visual studio 2010\Projects\TiltableTest\TiltableTest\obj\Debug\TiltableTest.pdb
+c:\users\user\documents\visual studio 2010\Projects\TiltableTest\TiltableTest\obj\Debug\XapCacheFile.xml

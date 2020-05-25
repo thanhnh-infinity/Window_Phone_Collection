@@ -1,0 +1,13 @@
+c:\users\user\documents\visual studio 2010\Projects\ErrorHandingDemo\ErrorHandingDemo\Bin\Debug\ApplicationIcon.png
+c:\users\user\documents\visual studio 2010\Projects\ErrorHandingDemo\ErrorHandingDemo\Bin\Debug\Background.png
+c:\users\user\documents\visual studio 2010\Projects\ErrorHandingDemo\ErrorHandingDemo\Bin\Debug\ErrorHandingDemo.dll
+c:\users\user\documents\visual studio 2010\Projects\ErrorHandingDemo\ErrorHandingDemo\Bin\Debug\ErrorHandingDemo.pdb
+c:\users\user\documents\visual studio 2010\Projects\ErrorHandingDemo\ErrorHandingDemo\Bin\Debug\AppManifest.xaml
+c:\users\user\documents\visual studio 2010\Projects\ErrorHandingDemo\ErrorHandingDemo\Bin\Debug\ErrorHandingDemo.xap
+c:\users\user\documents\visual studio 2010\Projects\ErrorHandingDemo\ErrorHandingDemo\obj\Debug\ResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2010\Projects\ErrorHandingDemo\ErrorHandingDemo\obj\Debug\App.g.i.cs
+c:\users\user\documents\visual studio 2010\Projects\ErrorHandingDemo\ErrorHandingDemo\obj\Debug\MainPage.g.i.cs
+c:\users\user\documents\visual studio 2010\Projects\ErrorHandingDemo\ErrorHandingDemo\obj\Debug\ErrorHandingDemo.g.resources
+c:\users\user\documents\visual studio 2010\Projects\ErrorHandingDemo\ErrorHandingDemo\obj\Debug\ErrorHandingDemo.dll
+c:\users\user\documents\visual studio 2010\Projects\ErrorHandingDemo\ErrorHandingDemo\obj\Debug\ErrorHandingDemo.pdb
+c:\users\user\documents\visual studio 2010\Projects\ErrorHandingDemo\ErrorHandingDemo\obj\Debug\XapCacheFile.xml

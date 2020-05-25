@@ -1,0 +1,7 @@
+﻿<Window x:Class="PlaceImageDemoWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:placeimagedemo="clr-namespace:PlaceImageDemo"
+        Title="PlaceImageDemoWPF" Height="350" Width="325">
+    <placeimagedemo:CatControl/>
+</Window>

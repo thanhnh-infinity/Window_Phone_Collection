@@ -1,0 +1,13 @@
+c:\users\user\documents\visual studio 2010\Projects\NewApplicationBar\NewApplicationBar\Bin\Debug\ApplicationIcon.png
+c:\users\user\documents\visual studio 2010\Projects\NewApplicationBar\NewApplicationBar\Bin\Debug\Background.png
+c:\users\user\documents\visual studio 2010\Projects\NewApplicationBar\NewApplicationBar\Bin\Debug\NewApplicationBar.dll
+c:\users\user\documents\visual studio 2010\Projects\NewApplicationBar\NewApplicationBar\Bin\Debug\NewApplicationBar.pdb
+c:\users\user\documents\visual studio 2010\Projects\NewApplicationBar\NewApplicationBar\Bin\Debug\AppManifest.xaml
+c:\users\user\documents\visual studio 2010\Projects\NewApplicationBar\NewApplicationBar\Bin\Debug\NewApplicationBar.xap
+c:\users\user\documents\visual studio 2010\Projects\NewApplicationBar\NewApplicationBar\obj\Debug\ResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2010\Projects\NewApplicationBar\NewApplicationBar\obj\Debug\App.g.i.cs
+c:\users\user\documents\visual studio 2010\Projects\NewApplicationBar\NewApplicationBar\obj\Debug\MainPage.g.i.cs
+c:\users\user\documents\visual studio 2010\Projects\NewApplicationBar\NewApplicationBar\obj\Debug\NewApplicationBar.g.resources
+c:\users\user\documents\visual studio 2010\Projects\NewApplicationBar\NewApplicationBar\obj\Debug\NewApplicationBar.dll
+c:\users\user\documents\visual studio 2010\Projects\NewApplicationBar\NewApplicationBar\obj\Debug\NewApplicationBar.pdb
+c:\users\user\documents\visual studio 2010\Projects\NewApplicationBar\NewApplicationBar\obj\Debug\XapCacheFile.xml

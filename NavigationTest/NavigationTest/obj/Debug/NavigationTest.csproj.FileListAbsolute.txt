@@ -1,0 +1,15 @@
+c:\users\user\documents\visual studio 2010\Projects\NavigationTest\NavigationTest\Bin\Debug\ApplicationIcon.png
+c:\users\user\documents\visual studio 2010\Projects\NavigationTest\NavigationTest\Bin\Debug\Background.png
+c:\users\user\documents\visual studio 2010\Projects\NavigationTest\NavigationTest\Bin\Debug\NavigationTest.dll
+c:\users\user\documents\visual studio 2010\Projects\NavigationTest\NavigationTest\Bin\Debug\NavigationTest.pdb
+c:\users\user\documents\visual studio 2010\Projects\NavigationTest\NavigationTest\Bin\Debug\AppManifest.xaml
+c:\users\user\documents\visual studio 2010\Projects\NavigationTest\NavigationTest\Bin\Debug\NavigationTest.xap
+c:\users\user\documents\visual studio 2010\Projects\NavigationTest\NavigationTest\obj\Debug\ResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2010\Projects\NavigationTest\NavigationTest\obj\Debug\App.g.i.cs
+c:\users\user\documents\visual studio 2010\Projects\NavigationTest\NavigationTest\obj\Debug\MainPage.g.i.cs
+c:\users\user\documents\visual studio 2010\Projects\NavigationTest\NavigationTest\obj\Debug\Page\Page1.g.i.cs
+c:\users\user\documents\visual studio 2010\Projects\NavigationTest\NavigationTest\obj\Debug\Page\Page2.g.i.cs
+c:\users\user\documents\visual studio 2010\Projects\NavigationTest\NavigationTest\obj\Debug\NavigationTest.g.resources
+c:\users\user\documents\visual studio 2010\Projects\NavigationTest\NavigationTest\obj\Debug\NavigationTest.dll
+c:\users\user\documents\visual studio 2010\Projects\NavigationTest\NavigationTest\obj\Debug\NavigationTest.pdb
+c:\users\user\documents\visual studio 2010\Projects\NavigationTest\NavigationTest\obj\Debug\XapCacheFile.xml

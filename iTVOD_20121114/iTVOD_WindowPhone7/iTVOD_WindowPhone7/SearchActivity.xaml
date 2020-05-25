@@ -1,0 +1,59 @@
+﻿<phone:PhoneApplicationPage 
+    x:Class="iTVOD_WindowPhone7.SearchActivity"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:delay="clr-namespace:Delay;assembly=PhonePerformance"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    mc:Ignorable="d" d:DesignHeight="768" d:DesignWidth="480"
+    shell:SystemTray.IsVisible="True">
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <Grid.Background>
+            <ImageBrush ImageSource="Images/bg2.jpeg" Stretch="UniformToFill" Opacity="0.3" />
+        </Grid.Background>
+        <!--TitlePanel contains the name of the application and page title-->
+        <StackPanel x:Name="TitlePanel" Margin="0,17,0,28">
+            <StackPanel.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="Black" Offset="0" />
+                    <GradientStop Color="#FFACD3CA" Offset="1" />
+                </LinearGradientBrush>
+            </StackPanel.Background>
+            <TextBlock x:Name="lblTitle" Text="Tìm kiếm" Style="{StaticResource PhoneTextNormalStyle}" FontSize="28" FontWeight="SemiBold" Height="57" TextAlignment="Center"></TextBlock>
+        </StackPanel>
+        <TextBox Grid.Row="1" Height="72" HorizontalAlignment="Left" Name="txtKeyWord" Text="" VerticalAlignment="Top" Width="349" Background="Transparent"/>
+        <Button Content="Tìm" Grid.Row="1" Height="72" HorizontalAlignment="Left" Margin="342,0,0,0" Name="btnSearch" VerticalAlignment="Top" Width="138" Click="btnSearch_Click" />
+        <ListBox Grid.Row="1" Height="517" HorizontalAlignment="Left" Margin="12,78,0,0" Name="lstVideoSearching" VerticalAlignment="Top" Width="456" SelectionChanged="lstVideoSearching_SelectionChanged">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel Orientation="Horizontal">
+                        <Image
+                              delay:LowProfileImageLoader.UriSource="{Binding video_picture_path}" 
+                              Stretch="None" 
+                              Margin="4,15" />
+                        <StackPanel Orientation="Vertical">
+                            <TextBlock Text="{Binding video_english_title}" FontSize="25" FontWeight="ExtraBold"  Margin="7,15" />
+                            <TextBlock Text="{Binding video_vietnamese_title}" FontSize="20" FontWeight="Normal" Margin="7,5" />
+                            <TextBlock Text="{Binding video_number_views}" FontSize="15" Margin="7,5" />
+                            <TextBlock Text="{Binding video_id}" Visibility="Collapsed" />
+                        </StackPanel>
+                    </StackPanel>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>    
+    </Grid>
+
+</phone:PhoneApplicationPage>

@@ -1,0 +1,15 @@
+c:\users\user\documents\visual studio 2010\Projects\Example_2_CurrencyConversion\Example_2_CurrencyConversion\Bin\Debug\ApplicationIcon.png
+c:\users\user\documents\visual studio 2010\Projects\Example_2_CurrencyConversion\Example_2_CurrencyConversion\Bin\Debug\Background.png
+c:\users\user\documents\visual studio 2010\Projects\Example_2_CurrencyConversion\Example_2_CurrencyConversion\Bin\Debug\Example_2_CurrencyConversion.dll
+c:\users\user\documents\visual studio 2010\Projects\Example_2_CurrencyConversion\Example_2_CurrencyConversion\Bin\Debug\Example_2_CurrencyConversion.pdb
+c:\users\user\documents\visual studio 2010\Projects\Example_2_CurrencyConversion\Example_2_CurrencyConversion\Bin\Debug\AppManifest.xaml
+c:\users\user\documents\visual studio 2010\Projects\Example_2_CurrencyConversion\Example_2_CurrencyConversion\Bin\Debug\Example_2_CurrencyConversion.xap
+c:\users\user\documents\visual studio 2010\Projects\Example_2_CurrencyConversion\Example_2_CurrencyConversion\obj\Debug\ResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2010\Projects\Example_2_CurrencyConversion\Example_2_CurrencyConversion\obj\Debug\App.g.i.cs
+c:\users\user\documents\visual studio 2010\Projects\Example_2_CurrencyConversion\Example_2_CurrencyConversion\obj\Debug\MainPage.g.i.cs
+c:\users\user\documents\visual studio 2010\Projects\Example_2_CurrencyConversion\Example_2_CurrencyConversion\obj\Debug\MoreStuff.g.i.cs
+c:\users\user\documents\visual studio 2010\Projects\Example_2_CurrencyConversion\Example_2_CurrencyConversion\obj\Debug\Upgrade.g.i.cs
+c:\users\user\documents\visual studio 2010\Projects\Example_2_CurrencyConversion\Example_2_CurrencyConversion\obj\Debug\Example_2_CurrencyConversion.g.resources
+c:\users\user\documents\visual studio 2010\Projects\Example_2_CurrencyConversion\Example_2_CurrencyConversion\obj\Debug\Example_2_CurrencyConversion.dll
+c:\users\user\documents\visual studio 2010\Projects\Example_2_CurrencyConversion\Example_2_CurrencyConversion\obj\Debug\Example_2_CurrencyConversion.pdb
+c:\users\user\documents\visual studio 2010\Projects\Example_2_CurrencyConversion\Example_2_CurrencyConversion\obj\Debug\XapCacheFile.xml

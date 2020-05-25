@@ -1,0 +1,13 @@
+c:\users\user\documents\visual studio 2010\Projects\HelloWorld\HelloWorld\Bin\Debug\ApplicationIcon.png
+c:\users\user\documents\visual studio 2010\Projects\HelloWorld\HelloWorld\Bin\Debug\Background.png
+c:\users\user\documents\visual studio 2010\Projects\HelloWorld\HelloWorld\Bin\Debug\HelloWorld.dll
+c:\users\user\documents\visual studio 2010\Projects\HelloWorld\HelloWorld\Bin\Debug\HelloWorld.pdb
+c:\users\user\documents\visual studio 2010\Projects\HelloWorld\HelloWorld\Bin\Debug\AppManifest.xaml
+c:\users\user\documents\visual studio 2010\Projects\HelloWorld\HelloWorld\Bin\Debug\HelloWorld.xap
+c:\users\user\documents\visual studio 2010\Projects\HelloWorld\HelloWorld\obj\Debug\ResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2010\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.g.resources
+c:\users\user\documents\visual studio 2010\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.dll
+c:\users\user\documents\visual studio 2010\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+c:\users\user\documents\visual studio 2010\Projects\HelloWorld\HelloWorld\obj\Debug\XapCacheFile.xml
+c:\users\user\documents\visual studio 2010\Projects\HelloWorld\HelloWorld\obj\Debug\App.g.i.cs
+c:\users\user\documents\visual studio 2010\Projects\HelloWorld\HelloWorld\obj\Debug\MainPage.g.i.cs

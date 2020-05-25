@@ -1,0 +1,5 @@
+﻿<Deployment xmlns="http://schemas.microsoft.com/client/2007/deployment" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" EntryPointAssembly="Example_3_InternationalizationSample" EntryPointType="Example_3_InternationalizationSample.App" RuntimeVersion="4.7.50308.0">
+  <Deployment.Parts>
+    <AssemblyPart x:Name="Example_3_InternationalizationSample" Source="Example_3_InternationalizationSample.dll" />
+  </Deployment.Parts>
+</Deployment>

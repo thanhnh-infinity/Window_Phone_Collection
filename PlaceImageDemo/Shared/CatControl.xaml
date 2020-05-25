@@ -1,0 +1,75 @@
+﻿<UserControl
+    x:Class="PlaceImageDemo.CatControl"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:delay="clr-namespace:Delay"
+    xmlns:placeimagedemo="clr-namespace:PlaceImageDemo"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    mc:Ignorable="d"
+    d:DesignWidth="300"
+    d:DesignHeight="300">
+
+    <Grid d:DataContext="{d:DesignInstance Type=placeimagedemo:Menagerie, IsDesignTimeCreatable=True}">
+        <ItemsControl
+            ItemsSource="{Binding}"
+            HorizontalAlignment="Center">
+            <ItemsControl.ItemTemplate>
+                <DataTemplate>
+                    <Border
+                        BorderBrush="Gray"
+                        BorderThickness="1"
+                        Height="100"
+                        Margin="2 2 2 0">
+                        <Grid Margin="2">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="Auto"/>
+                                <ColumnDefinition/>
+                                <ColumnDefinition Width="100"/>
+                            </Grid.ColumnDefinitions>
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="Auto"/>
+                                <RowDefinition Height="Auto"/>
+                                <RowDefinition/>
+                            </Grid.RowDefinitions>
+                            <TextBlock
+                                Grid.Column="0"
+                                Grid.Row="0"
+                                Text="Name: "/>
+                            <TextBlock
+                                Grid.Column="1"
+                                Grid.Row="0"
+                                Text="{Binding Name}"
+                                FontWeight="Bold"/>
+                            <TextBlock
+                                Grid.Column="0"
+                                Grid.Row="1"
+                                Text="Age: "/>
+                            <TextBlock
+                                Grid.Column="1"
+                                Grid.Row="1"
+                                Text="{Binding Age}"
+                                FontWeight="Bold"/>
+                            <TextBlock
+                                Grid.Column="0"
+                                Grid.Row="2"
+                                Text="Hobby: "/>
+                            <TextBlock
+                                Grid.Column="1"
+                                Grid.Row="2"
+                                Text="{Binding Hobby}"
+                                FontWeight="Bold"/>
+                            <delay:PlaceImage
+                                Grid.Column="2"
+                                Grid.RowSpan="3"
+                                PlaceholderSource="PlaceholderPhoto.png"
+                                Source="{Binding ImageUri}"
+                                VerticalAlignment="Top"
+                                MouseLeftButtonDown="PlaceImage_MouseLeftButtonDown"/>
+                        </Grid>
+                    </Border>
+                </DataTemplate>
+            </ItemsControl.ItemTemplate>
+        </ItemsControl>
+    </Grid>
+</UserControl>

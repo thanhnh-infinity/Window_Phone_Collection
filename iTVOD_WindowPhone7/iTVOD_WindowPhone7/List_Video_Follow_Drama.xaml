@@ -1,0 +1,63 @@
+﻿<phone:PhoneApplicationPage 
+    x:Class="iTVOD_WindowPhone7.List_Video_Follow_Drama"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:controls="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone.Controls"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+    xmlns:delay="clr-namespace:Delay;assembly=PhonePerformance"
+    mc:Ignorable="d" d:DesignWidth="480" d:DesignHeight="768"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait"  Orientation="Portrait"
+    shell:SystemTray.IsVisible="True">
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot">
+        <Grid.Background>
+            <ImageBrush ImageSource="Images/bg_drama.jpg" Stretch="UniformToFill" Opacity="0.3" />
+        </Grid.Background>
+        <!--Pivot Control-->
+        <controls:Pivot>
+            <!--Pivot item one-->
+            <controls:PivotItem Header="Thông tin">
+                <Grid>
+                    <Image Height="254" HorizontalAlignment="Left" Margin="7,74,0,0" Name="imgDrama" Stretch="Fill" VerticalAlignment="Top" Width="195" />
+                    <TextBlock Height="54" HorizontalAlignment="Left" Margin="10,11,0,0" Name="lblDramaTitle" Text="" VerticalAlignment="Top" Width="444" Foreground="White" FontWeight="ExtraBold" FontSize="26" />
+                    <TextBlock Height="67" HorizontalAlignment="Left" Margin="209,75,0,0" Name="lblDramaTitle_Vietnam" Text="" VerticalAlignment="Top" Width="241" />
+                    <TextBlock Height="30" Margin="210,148,7,0" Name="lblQuantity" Text="" VerticalAlignment="Top" Width="239" />
+                    <TextBlock Height="254" HorizontalAlignment="Left" Margin="11,345,0,0" Name="textBlock1" Text="Phim cua he thong TVOD - Test thu phan hien thi phim bo kieu moi - Danh sach cac tap phim trong bo duoc de trong pirvot thu 2" VerticalAlignment="Top" Width="437" TextWrapping="Wrap"/>
+                </Grid> 
+            </controls:PivotItem>
+
+            <!--Pivot item two-->
+            <controls:PivotItem Header="Tập Phim">
+                <Grid>
+                    <ListBox Height="493" HorizontalAlignment="Left" Margin="5,77,0,0" Name="lstVideoFollowDrama" VerticalAlignment="Top" Width="443" SelectionChanged="lstVideoFollowDrama_SelectionChanged">
+                        <ListBox.ItemTemplate>
+                            <DataTemplate>
+                                <StackPanel Orientation="Horizontal">
+                                    <Image delay:LowProfileImageLoader.UriSource="{Binding video_picture_path}" Stretch="None" Margin="4,15" />
+                                    <StackPanel Orientation="Vertical">
+                                        <TextBlock Text="{Binding video_english_title}" FontSize="25" FontWeight="ExtraBold"  Margin="7,15" TextWrapping="Wrap"/>
+                                        <TextBlock Text="{Binding video_vietnamese_title}" FontSize="20" FontWeight="Normal" Margin="7,5" />
+                                        <TextBlock Text="{Binding video_number_views}" FontSize="15" Margin="7,5" />
+                                        <TextBlock Text="{Binding video_id}" Visibility="Collapsed" />
+                                        <TextBlock Text="{Binding video_price}" Visibility="Collapsed" />
+                                    </StackPanel>
+                                </StackPanel>
+                            </DataTemplate>
+                        </ListBox.ItemTemplate>
+                    </ListBox>
+                    <Button Content="Xem từ đầu" FontSize="22" Height="72" HorizontalAlignment="Left" Margin="10,10,0,0" Name="btnViewFromBegin" VerticalAlignment="Top" Width="229" Click="btnViewFromBegin_Click" />
+                    <Button Content="Xem từ cuối" FontSize="22" Height="72" HorizontalAlignment="Left" Margin="216,10,0,0" Name="btnViewFromEnd" VerticalAlignment="Top" Width="213" Click="btnViewFromEnd_Click" />
+                </Grid>
+            </controls:PivotItem>
+        </controls:Pivot>
+        
+    </Grid>
+    
+</phone:PhoneApplicationPage>

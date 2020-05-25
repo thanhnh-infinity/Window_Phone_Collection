@@ -1,0 +1,287 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>10.0.20506</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{70304908-7CA0-4456-84D7-7AC5ED0CA8C9}</ProjectGuid>
+    <ProjectTypeGuids>{C089C8C0-30E0-4E22-80C0-CE093F111A43};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>iTVOD_WindowPhone7</RootNamespace>
+    <AssemblyName>iTVOD_WindowPhone7</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <SilverlightVersion>$(TargetFrameworkVersion)</SilverlightVersion>
+    <TargetFrameworkProfile>WindowsPhone71</TargetFrameworkProfile>
+    <TargetFrameworkIdentifier>Silverlight</TargetFrameworkIdentifier>
+    <SilverlightApplication>true</SilverlightApplication>
+    <SupportedCultures>
+    </SupportedCultures>
+    <XapOutputs>true</XapOutputs>
+    <GenerateSilverlightManifest>true</GenerateSilverlightManifest>
+    <XapFilename>iTVOD_WindowPhone7.xap</XapFilename>
+    <SilverlightManifestTemplate>Properties\AppManifest.xml</SilverlightManifestTemplate>
+    <SilverlightAppEntry>iTVOD_WindowPhone7.App</SilverlightAppEntry>
+    <ValidateXaml>true</ValidateXaml>
+    <ThrowErrorsInValidation>true</ThrowErrorsInValidation>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>Bin\Debug</OutputPath>
+    <DefineConstants>DEBUG;TRACE;SILVERLIGHT;WINDOWS_PHONE</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>Bin\Release</OutputPath>
+    <DefineConstants>TRACE;SILVERLIGHT;WINDOWS_PHONE</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Phone" />
+    <Reference Include="Microsoft.Phone.Controls, Version=7.0.0.0, Culture=neutral, PublicKeyToken=24eec0d8c86cda1e, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.Phone.Interop" />
+    <Reference Include="Microsoft.SilverlightMediaFramework.Compatibility.Phone, Version=2.2011.410.1, Culture=neutral, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.SilverlightMediaFramework.Core.Phone, Version=2.2011.410.1, Culture=neutral, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.SilverlightMediaFramework.Plugins.Phone, Version=2.2011.410.1, Culture=neutral, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.SilverlightMediaFramework.Plugins.Progressive.Phone, Version=2.2011.410.1, Culture=neutral, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.SilverlightMediaFramework.Plugins.SmoothStreaming.Phone, Version=2.2011.410.1, Culture=neutral, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.SilverlightMediaFramework.Plugins.TimedText.Phone, Version=2.2011.410.1, Culture=neutral, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.SilverlightMediaFramework.Utilities.Phone, Version=2.2011.410.1, Culture=neutral, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.Web.Media.SmoothStreaming, Version=1.1.837.146, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
+    <Reference Include="Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL" />
+    <Reference Include="PhonePerformance, Version=1.0.0.0, Culture=neutral, PublicKeyToken=eb13ab44d9ca0fe1, processorArchitecture=MSIL" />
+    <Reference Include="System.Windows" />
+    <Reference Include="system" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Net" />
+    <Reference Include="System.Windows.Controls">
+      <HintPath>..\..\..\..\..\Downloads\Compressed\LoginChildWindow1\LoginChildWindow\LoginChildWindow\Bin\Debug\System.Windows.Controls.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml" />
+    <Reference Include="mscorlib.extensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ListChannel_Follow_Child_Category.xaml.cs">
+      <DependentUpon>ListChannel_Follow_Child_Category.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="List_Child_Category_Level_2.xaml.cs">
+      <DependentUpon>List_Child_Category_Level_2.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="List_Drama_Activity.xaml.cs">
+      <DependentUpon>List_Drama_Activity.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="List_Video_Follow_Child_Category.xaml.cs">
+      <DependentUpon>List_Video_Follow_Child_Category.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="List_Video_Follow_Drama.xaml.cs">
+      <DependentUpon>List_Video_Follow_Drama.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Live_Channel_Player.xaml.cs">
+      <DependentUpon>Live_Channel_Player.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Live_Channel_PLayer_V2.xaml.cs">
+      <DependentUpon>Live_Channel_PLayer_V2.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="LoginActivity.xaml.cs">
+      <DependentUpon>LoginActivity.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="LoginActivity_V2.xaml.cs">
+      <DependentUpon>LoginActivity_V2.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="MainPage.xaml.cs">
+      <DependentUpon>MainPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="PurchaseExpiredDateActivity.xaml.cs">
+      <DependentUpon>PurchaseExpiredDateActivity.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="SearchActivity.xaml.cs">
+      <DependentUpon>SearchActivity.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="TVOD\System\SystemParameter.cs" />
+    <Compile Include="TVOD\System\Ultility.cs" />
+    <Compile Include="TVOD\TVODClass\AccountClass.cs" />
+    <Compile Include="TVOD\TVODClass\AddFavouriteObjectClass.cs" />
+    <Compile Include="TVOD\TVODClass\ChildCategoryClass.cs" />
+    <Compile Include="TVOD\TVODClass\CommentClass.cs" />
+    <Compile Include="TVOD\TVODClass\DramaClass.cs" />
+    <Compile Include="TVOD\TVODClass\ImageCache.cs" />
+    <Compile Include="TVOD\TVODClass\LiveChannelClass.cs" />
+    <Compile Include="TVOD\TVODClass\LoginClass.cs" />
+    <Compile Include="TVOD\TVODClass\LogoutClass.cs" />
+    <Compile Include="TVOD\TVODClass\PackageClass.cs" />
+    <Compile Include="TVOD\TVODClass\ParentCategoryClass.cs" />
+    <Compile Include="TVOD\TVODClass\SessionClass.cs" />
+    <Compile Include="TVOD\TVODClass\TransactionClass.cs" />
+    <Compile Include="TVOD\TVODClass\TVODWebClient.cs" />
+    <Compile Include="TVOD\TVODClass\URLObject.cs" />
+    <Compile Include="TVOD\TVODClass\VideoClass.cs" />
+    <Compile Include="UserProfileActivity.xaml.cs">
+      <DependentUpon>UserProfileActivity.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UserProfileActivity_V2.xaml.cs">
+      <DependentUpon>UserProfileActivity_V2.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Video_Detail_Player.xaml.cs">
+      <DependentUpon>Video_Detail_Player.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Video_Detail_Player_V2.xaml.cs">
+      <DependentUpon>Video_Detail_Player_V2.xaml</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </ApplicationDefinition>
+    <Page Include="ListChannel_Follow_Child_Category.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="List_Child_Category_Level_2.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="List_Drama_Activity.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="List_Video_Follow_Child_Category.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="List_Video_Follow_Drama.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Live_Channel_Player.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Live_Channel_PLayer_V2.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="LoginActivity.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="LoginActivity_V2.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MainPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="PurchaseExpiredDateActivity.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="SearchActivity.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="UserProfileActivity.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="UserProfileActivity_V2.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Video_Detail_Player.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Video_Detail_Player_V2.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\AppManifest.xml" />
+    <None Include="Properties\WMAppManifest.xml">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="ApplicationIcon.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="ApplicationIcon_.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Background.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Resource Include="Images\tron_nhac.png" />
+    <Resource Include="Images\tron_phim.png" />
+    <Resource Include="Images\tron_truyenhinh.png" />
+    <Content Include="dll\JSONParse\Newtonsoft.Json.dll" />
+    <Content Include="dll\JSONParse\Newtonsoft.Json.pdb" />
+    <Content Include="dll\JSONParse\Newtonsoft.Json.xml" />
+    <Resource Include="Images\tintuc.png" />
+    <Resource Include="Images\tron_radio.png" />
+    <Resource Include="Images\tron_thethao.png" />
+    <Content Include="dll\PhonePerformance\PhonePerformance.dll" />
+    <Content Include="dll\PhonePerformance\PhonePerformance.xml" />
+    <Content Include="icon.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="icon\back.png" />
+    <Content Include="icon\user_profile.png" />
+    <Content Include="icon\search.png" />
+    <Content Include="icon\home.png" />
+    <Resource Include="Images\Phim\phim 2010.png" />
+    <Resource Include="Images\Phim\phim 2011.png" />
+    <Resource Include="Images\Phim\phim 2012.png" />
+    <Resource Include="Images\Phim\phim bo.png" />
+    <Resource Include="Images\Phim\Phim hai huoc.png" />
+    <Resource Include="Images\Phim\phim hanh dong.png" />
+    <Resource Include="Images\Phim\phim hoat hinh.png" />
+    <Resource Include="Images\Phim\phim kinh di.png" />
+    <Resource Include="Images\Phim\Phim kinh dien.png" />
+    <Resource Include="Images\Phim\phim tai lieu_2.png" />
+    <Resource Include="Images\Phim\phim tam ly.png" />
+    <Resource Include="Images\Phim\Phim vien tuong.png" />
+    <Resource Include="Images\Phim\Phim1-6.png" />
+    <Resource Include="Images\live\135958660.png" />
+    <Resource Include="Images\live\hdicon.png" />
+    <Resource Include="Images\gif\waiting1.gif" />
+    <Resource Include="Images\gif\waiting2.gif" />
+    <Resource Include="Images\gif\waiting3.gif" />
+    <Resource Include="Images\gif\tintuc.png" />
+    <Resource Include="Images\bg.jpg" />
+    <Resource Include="Images\bg2.jpeg" />
+    <Resource Include="Images\bg_drama.jpg" />
+    <Content Include="SplashScreenImage.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Data\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\Silverlight for Phone\$(TargetFrameworkVersion)\Microsoft.Silverlight.$(TargetFrameworkProfile).Overrides.targets" />
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\Silverlight for Phone\$(TargetFrameworkVersion)\Microsoft.Silverlight.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  <ProjectExtensions />
+</Project>

@@ -1,0 +1,13 @@
+c:\users\user\documents\visual studio 2010\Projects\Tasks\Tasks\Bin\Debug\ApplicationIcon.png
+c:\users\user\documents\visual studio 2010\Projects\Tasks\Tasks\Bin\Debug\Background.png
+c:\users\user\documents\visual studio 2010\Projects\Tasks\Tasks\Bin\Debug\Tasks.dll
+c:\users\user\documents\visual studio 2010\Projects\Tasks\Tasks\Bin\Debug\Tasks.pdb
+c:\users\user\documents\visual studio 2010\Projects\Tasks\Tasks\Bin\Debug\AppManifest.xaml
+c:\users\user\documents\visual studio 2010\Projects\Tasks\Tasks\Bin\Debug\Tasks.xap
+c:\users\user\documents\visual studio 2010\Projects\Tasks\Tasks\obj\Debug\ResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2010\Projects\Tasks\Tasks\obj\Debug\App.g.i.cs
+c:\users\user\documents\visual studio 2010\Projects\Tasks\Tasks\obj\Debug\MainPage.g.i.cs
+c:\users\user\documents\visual studio 2010\Projects\Tasks\Tasks\obj\Debug\Tasks.g.resources
+c:\users\user\documents\visual studio 2010\Projects\Tasks\Tasks\obj\Debug\Tasks.dll
+c:\users\user\documents\visual studio 2010\Projects\Tasks\Tasks\obj\Debug\Tasks.pdb
+c:\users\user\documents\visual studio 2010\Projects\Tasks\Tasks\obj\Debug\XapCacheFile.xml

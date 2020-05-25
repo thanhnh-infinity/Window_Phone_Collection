@@ -1,0 +1,13 @@
+c:\users\user\documents\visual studio 2010\Projects\Exp_4_GeoCoodinateWatcherDemo\Exp_4_GeoCoodinateWatcherDemo\obj\Debug\ResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2010\Projects\Exp_4_GeoCoodinateWatcherDemo\Exp_4_GeoCoodinateWatcherDemo\obj\Debug\App.g.i.cs
+c:\users\user\documents\visual studio 2010\Projects\Exp_4_GeoCoodinateWatcherDemo\Exp_4_GeoCoodinateWatcherDemo\obj\Debug\MainPage.g.i.cs
+c:\users\user\documents\visual studio 2010\Projects\Exp_4_GeoCoodinateWatcherDemo\Exp_4_GeoCoodinateWatcherDemo\obj\Debug\Exp_4_GeoCoodinateWatcherDemo.g.resources
+c:\users\user\documents\visual studio 2010\Projects\Exp_4_GeoCoodinateWatcherDemo\Exp_4_GeoCoodinateWatcherDemo\Bin\Debug\ApplicationIcon.png
+c:\users\user\documents\visual studio 2010\Projects\Exp_4_GeoCoodinateWatcherDemo\Exp_4_GeoCoodinateWatcherDemo\Bin\Debug\Background.png
+c:\users\user\documents\visual studio 2010\Projects\Exp_4_GeoCoodinateWatcherDemo\Exp_4_GeoCoodinateWatcherDemo\Bin\Debug\Exp_4_GeoCoodinateWatcherDemo.dll
+c:\users\user\documents\visual studio 2010\Projects\Exp_4_GeoCoodinateWatcherDemo\Exp_4_GeoCoodinateWatcherDemo\Bin\Debug\Exp_4_GeoCoodinateWatcherDemo.pdb
+c:\users\user\documents\visual studio 2010\Projects\Exp_4_GeoCoodinateWatcherDemo\Exp_4_GeoCoodinateWatcherDemo\Bin\Debug\AppManifest.xaml
+c:\users\user\documents\visual studio 2010\Projects\Exp_4_GeoCoodinateWatcherDemo\Exp_4_GeoCoodinateWatcherDemo\Bin\Debug\Exp_4_GeoCoodinateWatcherDemo.xap
+c:\users\user\documents\visual studio 2010\Projects\Exp_4_GeoCoodinateWatcherDemo\Exp_4_GeoCoodinateWatcherDemo\obj\Debug\Exp_4_GeoCoodinateWatcherDemo.dll
+c:\users\user\documents\visual studio 2010\Projects\Exp_4_GeoCoodinateWatcherDemo\Exp_4_GeoCoodinateWatcherDemo\obj\Debug\Exp_4_GeoCoodinateWatcherDemo.pdb
+c:\users\user\documents\visual studio 2010\Projects\Exp_4_GeoCoodinateWatcherDemo\Exp_4_GeoCoodinateWatcherDemo\obj\Debug\XapCacheFile.xml

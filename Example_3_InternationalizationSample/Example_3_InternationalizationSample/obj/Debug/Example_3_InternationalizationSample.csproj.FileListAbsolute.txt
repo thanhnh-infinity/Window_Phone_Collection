@@ -1,0 +1,17 @@
+c:\users\user\documents\visual studio 2010\Projects\Example_3_InternationalizationSample\Example_3_InternationalizationSample\Bin\Debug\ApplicationIcon.png
+c:\users\user\documents\visual studio 2010\Projects\Example_3_InternationalizationSample\Example_3_InternationalizationSample\Bin\Debug\Background.png
+c:\users\user\documents\visual studio 2010\Projects\Example_3_InternationalizationSample\Example_3_InternationalizationSample\Bin\Debug\Example_3_InternationalizationSample.dll
+c:\users\user\documents\visual studio 2010\Projects\Example_3_InternationalizationSample\Example_3_InternationalizationSample\Bin\Debug\Example_3_InternationalizationSample.pdb
+c:\users\user\documents\visual studio 2010\Projects\Example_3_InternationalizationSample\Example_3_InternationalizationSample\Bin\Debug\AppManifest.xaml
+c:\users\user\documents\visual studio 2010\Projects\Example_3_InternationalizationSample\Example_3_InternationalizationSample\Bin\Debug\Example_3_InternationalizationSample.xap
+c:\users\user\documents\visual studio 2010\Projects\Example_3_InternationalizationSample\Example_3_InternationalizationSample\obj\Debug\ResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2010\Projects\Example_3_InternationalizationSample\Example_3_InternationalizationSample\obj\Debug\App.g.i.cs
+c:\users\user\documents\visual studio 2010\Projects\Example_3_InternationalizationSample\Example_3_InternationalizationSample\obj\Debug\MainPage.g.i.cs
+c:\users\user\documents\visual studio 2010\Projects\Example_3_InternationalizationSample\Example_3_InternationalizationSample\obj\Debug\Example_3_InternationalizationSample.g.resources
+c:\users\user\documents\visual studio 2010\Projects\Example_3_InternationalizationSample\Example_3_InternationalizationSample\obj\Debug\Example_3_InternationalizationSample.dll
+c:\users\user\documents\visual studio 2010\Projects\Example_3_InternationalizationSample\Example_3_InternationalizationSample\obj\Debug\Example_3_InternationalizationSample.pdb
+c:\users\user\documents\visual studio 2010\Projects\Example_3_InternationalizationSample\Example_3_InternationalizationSample\obj\Debug\XapCacheFile.xml
+c:\users\user\documents\visual studio 2010\Projects\Example_3_InternationalizationSample\Example_3_InternationalizationSample\obj\Debug\Example_3_InternationalizationSample.AppResources.resources
+c:\users\user\documents\visual studio 2010\Projects\Example_3_InternationalizationSample\Example_3_InternationalizationSample\obj\Debug\GenerateResource.read.1.tlog
+c:\users\user\documents\visual studio 2010\Projects\Example_3_InternationalizationSample\Example_3_InternationalizationSample\obj\Debug\GenerateResource.write.1.tlog
+c:\users\user\documents\visual studio 2010\Projects\Example_3_InternationalizationSample\Example_3_InternationalizationSample\obj\Debug\Example_3_InternationalizationSample.AppResources_vn.resources

@@ -1,0 +1,14 @@
+C:\Users\user\Downloads\Compressed\LoginChildWindow1\LoginChildWindow\LoginChildWindow\Bin\Release\ApplicationIcon.png
+C:\Users\user\Downloads\Compressed\LoginChildWindow1\LoginChildWindow\LoginChildWindow\Bin\Release\Background.png
+C:\Users\user\Downloads\Compressed\LoginChildWindow1\LoginChildWindow\LoginChildWindow\Bin\Release\LoginChildWindow.dll
+C:\Users\user\Downloads\Compressed\LoginChildWindow1\LoginChildWindow\LoginChildWindow\Bin\Release\LoginChildWindow.pdb
+C:\Users\user\Downloads\Compressed\LoginChildWindow1\LoginChildWindow\LoginChildWindow\Bin\Release\AppManifest.xaml
+C:\Users\user\Downloads\Compressed\LoginChildWindow1\LoginChildWindow\LoginChildWindow\Bin\Release\LoginChildWindow.xap
+C:\Users\user\Downloads\Compressed\LoginChildWindow1\LoginChildWindow\LoginChildWindow\obj\Release\ResolveAssemblyReference.cache
+C:\Users\user\Downloads\Compressed\LoginChildWindow1\LoginChildWindow\LoginChildWindow\obj\Release\App.g.i.cs
+C:\Users\user\Downloads\Compressed\LoginChildWindow1\LoginChildWindow\LoginChildWindow\obj\Release\LoginChildWindow.g.i.cs
+C:\Users\user\Downloads\Compressed\LoginChildWindow1\LoginChildWindow\LoginChildWindow\obj\Release\MainPage.g.i.cs
+C:\Users\user\Downloads\Compressed\LoginChildWindow1\LoginChildWindow\LoginChildWindow\obj\Release\LoginChildWindow.g.resources
+C:\Users\user\Downloads\Compressed\LoginChildWindow1\LoginChildWindow\LoginChildWindow\obj\Release\LoginChildWindow.dll
+C:\Users\user\Downloads\Compressed\LoginChildWindow1\LoginChildWindow\LoginChildWindow\obj\Release\LoginChildWindow.pdb
+C:\Users\user\Downloads\Compressed\LoginChildWindow1\LoginChildWindow\LoginChildWindow\obj\Release\XapCacheFile.xml
